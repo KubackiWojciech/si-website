@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/si-website/static/css/main.305c829c.css",
-    "main.js": "/si-website/static/js/main.f1b96716.js",
+    "main.js": "/si-website/static/js/main.4288361b.js",
     "index.html": "/si-website/index.html",
     "main.305c829c.css.map": "/si-website/static/css/main.305c829c.css.map",
-    "main.f1b96716.js.map": "/si-website/static/js/main.f1b96716.js.map"
+    "main.4288361b.js.map": "/si-website/static/js/main.4288361b.js.map"
   },
   "entrypoints": [
     "static/css/main.305c829c.css",
-    "static/js/main.f1b96716.js"
+    "static/js/main.4288361b.js"
   ]
 }
