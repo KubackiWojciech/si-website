@@ -1,0 +1,13 @@
+.font-changer {
+    background: none;
+    border: none;
+}
+.first {
+    font-size: 13px;
+}
+.second {
+    font-size: 20px;
+}
+.third {
+    font-size: 25px;
+}
