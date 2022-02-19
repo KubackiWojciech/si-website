@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/si-website/static/css/main.305c829c.css",
+    "main.js": "/si-website/static/js/main.e386a324.js",
+    "index.html": "/si-website/index.html",
+    "main.305c829c.css.map": "/si-website/static/css/main.305c829c.css.map",
+    "main.e386a324.js.map": "/si-website/static/js/main.e386a324.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.305c829c.css",
+    "static/js/main.e386a324.js"
+  ]
+}
