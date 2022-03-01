@@ -5,7 +5,7 @@ import './optionIcons.css'
 
 export default function OptionIcons() {
   return (
-    <div id = 'icons-container'>
+    <div>
     <div class='line'>
         {iconsData[0].map(item => { 
             return (
@@ -19,7 +19,7 @@ export default function OptionIcons() {
             )
         })}
     </div>
-    <div className='line'>
+    <div class='line'>
     {iconsData[1].map(item => { 
             return (
               <a href = {item.href}>

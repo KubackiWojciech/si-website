@@ -1,0 +1,10 @@
+#header-left {
+    justify-items: flex-start;
+    align-items: center;   
+    display: flex;
+    width: 60%;
+}
+
+.header-left-element {
+    padding: 15px;
+}

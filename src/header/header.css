@@ -1,25 +1,12 @@
 #header {
     width: 60%;
-    display: flex;
-    justify-content: center;
-}
-#header-left {
-    justify-items: flex-start;
-    align-items: center;   
-    display: flex;
-    width: 60%;
-}
-.header-left-element {
-    padding: 15px;
 }
 
 #foo {
     width: 10%;
 }
 
-#header-right {
-    width: 30%;
-    padding-right: 0;
-    justify-content: flex-end;
+#first-bar {
+    width: 100%;
     display: flex;
 }

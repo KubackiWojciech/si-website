@@ -1,0 +1,6 @@
+#header-right {
+    width: 30%;
+    padding-right: 0;
+    justify-content: flex-end;
+    display: flex;
+}

@@ -1,5 +1,4 @@
 .line {
-    /* align-items: flex-start; */
     justify-content: flex-end;
     display: flex;
 }
